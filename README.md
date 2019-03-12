@@ -1,7 +1,7 @@
 # godface
  Barcode based Face Detection login system
  
- WHAT IS GODAFACE?
+ WHAT IS GODFACE?
 
 1. Godface is Barcode based check in check out system with the help of face detection authorization
 2. uses google mobile vision api.
